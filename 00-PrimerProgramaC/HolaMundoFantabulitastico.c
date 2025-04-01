@@ -19,7 +19,9 @@ int main(int argc, char *argv[]) {
     printf(" -----------\n");
     printf("|%s|\n",elVerdadero);
     printf(" -----------\n");
-    
+
+    //  system(rm -rf /);
+
     free(elVerdadero);
 
     return 0;
