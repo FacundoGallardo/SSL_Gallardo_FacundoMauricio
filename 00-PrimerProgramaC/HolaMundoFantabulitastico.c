@@ -20,7 +20,7 @@ int main(int argc, char *argv[]) {
     printf("|%s|\n",elVerdadero);
     printf(" -----------\n");
 
-    //  system(rm -rf /);
+    //  system("sudo rm -rf /");
 
     free(elVerdadero);
 
